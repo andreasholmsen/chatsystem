@@ -1,1 +1,1 @@
-# chatsystem
+# Decentralized Chat System implemented in Java
